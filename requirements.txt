@@ -1,2 +1,2 @@
-pyspark~=2.4.7
-kafka-python
+pyspark==2.4.7
+kafka-python==2.0.2
